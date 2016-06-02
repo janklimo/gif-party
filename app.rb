@@ -14,6 +14,8 @@ post '/callback' do
   receive_request = Line::Bot::Receive::Request.new(request.env)
 
   receive_request.data.each { |message|
+    p message
+    p message.content
     case message.content
     when Line::Bot::Message::Text
       process_text(message.from_mid, message.content[:text])
