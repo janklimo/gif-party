@@ -42,6 +42,6 @@ def process_text(recipient_id, text)
   user_profile = client.get_user_profile(recipient_id)
   client.send_text(
     to_mid: recipient_id,
-    text: user_profile.contacts
+    text: user_profile.contacts.map { |c| c[:displayName] }
   )
 end
