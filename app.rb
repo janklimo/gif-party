@@ -25,7 +25,9 @@ post '/callback' do
         stkver: 100
       )
     when Line::Bot::Message::Location
+      p message
       p message.content
+      p message.content.content
       p message.content[:location]
       process_location(user_id: message.from_mid,
                        location: message.content[:location])
