@@ -16,6 +16,10 @@ post '/callback' do
   receive_request.data.each { |message|
     case message.content
     when Line::Bot::Message::Text
+      p message
+      p message.content
+      p message.content[:text]
+      p message.content.content
       process_text(user_id: message.from_mid, text: message.content[:text])
     when Line::Bot::Operation::AddedAsFriend
       client.send_sticker(
@@ -27,6 +31,7 @@ post '/callback' do
     when Line::Bot::Message::Location
       p message
       p message.content
+      p message.content[:text]
       p message.content.content
       p message.content[:location]
       process_location(user_id: message.from_mid,
