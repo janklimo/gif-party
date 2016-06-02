@@ -14,11 +14,9 @@ post '/callback' do
   receive_request = Line::Bot::Receive::Request.new(request.env)
 
   receive_request.data.each { |message|
-    p message.content
-    p message.content.address
     case message.content
     when Line::Bot::Message::Text
-      process_text(message.from_mid, message.content[:text])
+      process_text(user_id: message.from_mid, text: message.content[:text])
     when Line::Bot::Operation::AddedAsFriend
       client.send_sticker(
         to_mid: message.from_mid,
@@ -26,6 +24,9 @@ post '/callback' do
         stkid: 144,
         stkver: 100
       )
+    when Line::Bot::Message::Location
+      process_location(user_id: message.from_mid,
+                       location: message.content[:location])
     end
   }
 
@@ -40,15 +41,26 @@ def client
   }
 end
 
-def process_text(recipient_id, text)
-  user_profile = client.get_user_profile(recipient_id).contacts[0]
+def process_text(user_id:, text:)
+  user_profile = client.get_user_profile(user_id).contacts[0]
   client.send_text(
-    to_mid: recipient_id,
+    to_mid: user_id,
     text: "Hello #{user_profile.display_name}! Nice profile picture :)"
   )
   client.send_image(
-    to_mid: recipient_id,
+    to_mid: user_id,
     image_url: user_profile.picture_url,
     preview_url: user_profile.picture_url
+  )
+  client.send_text(
+    to_mid: user_id,
+    text: "Where are you now?"
+  )
+end
+
+def process_location(user_id:, location:)
+  client.send_text(
+    to_mid: user_id,
+    text: "You are at #{location[:address]}. Nice place!"
   )
 end
