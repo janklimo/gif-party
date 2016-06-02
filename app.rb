@@ -39,9 +39,14 @@ def client
 end
 
 def process_text(recipient_id, text)
-  user_profile = client.get_user_profile(recipient_id)
+  user_profile = client.get_user_profile(recipient_id).contacts[0]
   client.send_text(
     to_mid: recipient_id,
-    text: user_profile.contacts.map { |c| c.display_name }
+    text: "Hello #{user_profile.display_name}! Nice profile picture :)"
+  )
+  client.send_image(
+    to_mid: recipient_id,
+    image_url: user_profile.picture_url,
+    preview_url: "#{user_profile.picture_url}/small"
   )
 end
