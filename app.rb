@@ -47,6 +47,6 @@ def process_text(recipient_id, text)
   client.send_image(
     to_mid: recipient_id,
     image_url: user_profile.picture_url,
-    preview_url: "#{user_profile.picture_url}/small"
+    preview_url: user_profile.picture_url
   )
 end
