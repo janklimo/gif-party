@@ -26,6 +26,8 @@ post '/callback' do
             'apiKey' => ENV['GUGGY_API_KEY']
           }
         )
+        puts '================='
+        puts response
         client.reply_message(event['replyToken'], response)
       else
         message = {
