@@ -15,7 +15,7 @@ class Parser
     @response ||= HTTParty.post(
       'http://text2gif.guggy.com/v2/guggify',
       body: {
-        sentence: message
+        sentence: @sentence
       }.to_json,
       headers: {
         'Content-Type' => 'application/json',
