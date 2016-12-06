@@ -27,10 +27,11 @@ post '/callback' do
           }
         )
 
+        gif_data = JSON.parse(response.body)
         puts '======================='
-        p response.body
+        p gif_data
 
-        gifs = response.body['animated'].map do |gif|
+        gifs = gif_data['animated'].map do |gif|
           gif['mp4']['original']['secureUrl']
         end
         client.reply_message(event['replyToken'], gifs[0])
