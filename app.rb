@@ -1,6 +1,7 @@
 require 'sinatra'
 require 'line/bot'
 require 'httparty'
+require './parser'
 
 post '/callback' do
   body = request.body.read
@@ -16,25 +17,14 @@ post '/callback' do
     when Line::Bot::Event::Message
       case event.type
       when Line::Bot::Event::MessageType::Text
-        response = HTTParty.post(
-          'http://text2gif.guggy.com/v2/guggify',
-          body: {
-            sentence: event.message['text']
-          }.to_json,
-          headers: {
-            'Content-Type' => 'application/json',
-            'apiKey' => ENV['GUGGY_API_KEY']
-          }
-        )
+        urls = Parser.new(event.message['text']).video_urls
 
-        gif_data = JSON.parse(response.body)
-        puts '======================='
-        p gif_data
+        message = {
+          type: 'text',
+          text: urls[0]
+        }
 
-        gifs = gif_data['animated'].map do |gif|
-          gif['mp4']['original']['secureUrl']
-        end
-        client.reply_message(event['replyToken'], gifs[0])
+        client.reply_message(event['replyToken'], message)
       else
         message = {
           type: 'text',

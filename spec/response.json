@@ -1,0 +1,667 @@
+{
+  "reqId": "sBPmGNNCAR",
+  "animated": [
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/0/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/0/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/0/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/0/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/0/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/0/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/0/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/0/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/0/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/0/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/DwDd9A0ktH7WUR9nZHvx.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/DwDd9A0ktH7WUR9nZHvx.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      }
+    },
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/1/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/1/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/1/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/1/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/1/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/1/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/1/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/1/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/1/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/1/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/t14THzWwZiDrza1Tifxp.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/t14THzWwZiDrza1Tifxp.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      }
+    },
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/2/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/2/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/2/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/2/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/2/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/2/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/2/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/2/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/2/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/2/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/tPGiDjcxdeTj9j9LqQ0Q.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/tPGiDjcxdeTj9j9LqQ0Q.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      }
+    },
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/3/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/3/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/3/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/3/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/3/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/3/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/3/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/3/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/3/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/3/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/DcgHfuoyQnvgcfi0FBua.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/DcgHfuoyQnvgcfi0FBua.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 140
+          }
+        }
+      }
+    },
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/4/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/4/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/4/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/4/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/4/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/4/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/4/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/4/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/4/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/4/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/hhDgqxtchbmN7Cmclhte.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/hhDgqxtchbmN7Cmclhte.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 184
+          }
+        }
+      }
+    },
+    {
+      "gif": {
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/5/p/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/5/p/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "lowQuality": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/5/l/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/5/l/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/5/o/guggy.gif",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/5/o/guggy.gif",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "mp4": {
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/5/o/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/5/o/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/animated/5/p/guggy.mp4",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/animated/5/p/guggy.mp4",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      },
+      "thumbnail": {
+        "original": {
+          "url": "http://guggyrepository.guggy.com/Zmf9ZdBFKCxkCl4PCp5d.jpg",
+          "secureUrl": "https://guggyrepository.guggy.com/Zmf9ZdBFKCxkCl4PCp5d.jpg",
+          "dimensions": {
+            "width": 250,
+            "height": 138
+          }
+        }
+      }
+    }
+  ],
+  "sticker": [
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 514
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 514
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/0/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/0/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 654
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 326
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 162
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 654
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 326
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/1/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/1/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 162
+          }
+        }
+      }
+    },
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/2/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/2/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/3/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/3/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/4/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/4/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    },
+    {
+      "webp": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/h/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/h/guggy.webp",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/o/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/o/guggy.webp",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/p/guggy.webp",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/p/guggy.webp",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      },
+      "png": {
+        "hires": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/h/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/h/guggy.png",
+          "dimensions": {
+            "width": 512,
+            "height": 512
+          }
+        },
+        "original": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/o/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/o/guggy.png",
+          "dimensions": {
+            "width": 256,
+            "height": 256
+          }
+        },
+        "preview": {
+          "url": "http://img.guggy.com/media/sBPmGNNCAR/sticker/5/p/guggy.png",
+          "secureUrl": "https://img.guggy.com/media/sBPmGNNCAR/sticker/5/p/guggy.png",
+          "dimensions": {
+            "width": 128,
+            "height": 128
+          }
+        }
+      }
+    }
+  ]
+}
