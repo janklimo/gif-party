@@ -26,9 +26,10 @@ post '/callback' do
             'apiKey' => ENV['GUGGY_API_KEY']
           }
         )
-        puts '================='
-        puts response
-        client.reply_message(event['replyToken'], response)
+        gifs = response['animated'].map do |gif|
+          gif['mp4']['original']['secureUrl']
+        end
+        client.reply_message(event['replyToken'], gifs[0])
       else
         message = {
           type: 'text',
