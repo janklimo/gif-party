@@ -2,7 +2,6 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
-    geocoder (1.2.11)
     line-bot-api (0.1.6)
       rack (>= 1.6)
     rack (1.6.4)
@@ -31,10 +30,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  geocoder
   line-bot-api
   rspec
   sinatra (~> 1.4.4)
 
 BUNDLED WITH
-   1.12.5
+   1.13.5
