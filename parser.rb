@@ -9,6 +9,12 @@ class Parser
     end
   end
 
+  def preview_urls
+    parsed_data['animated'].map do |gif|
+      gif['thumbnail']['original']['secureUrl']
+    end
+  end
+
   private
 
   def data

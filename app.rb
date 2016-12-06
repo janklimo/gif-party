@@ -17,11 +17,13 @@ post '/callback' do
     when Line::Bot::Event::Message
       case event.type
       when Line::Bot::Event::MessageType::Text
-        urls = Parser.new(event.message['text']).video_urls
+        video_urls = Parser.new(event.message['text']).video_urls
+        preview_urls = Parser.new(event.message['text']).preview_urls
 
         message = {
-          type: 'text',
-          text: urls[0]
+          type: 'video',
+          originalContentUrl: video_urls[0],
+          previewImageUrl: preview_urls[0]
         }
 
         client.reply_message(event['replyToken'], message)
