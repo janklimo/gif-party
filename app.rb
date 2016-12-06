@@ -1,5 +1,6 @@
 require 'sinatra'
 require 'line/bot'
+require 'httparty'
 
 post '/callback' do
   body = request.body.read
