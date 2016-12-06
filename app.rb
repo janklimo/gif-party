@@ -22,8 +22,8 @@ post '/callback' do
             sentence: event.message['text']
           }.to_json,
           headers: {
-            'Content-Type': 'application/json',
-            'apiKey': ENV['GUGGY_API_KEY']
+            'Content-Type' => 'application/json',
+            'apiKey' => ENV['GUGGY_API_KEY']
           }
         )
         client.reply_message(event['replyToken'], response)
