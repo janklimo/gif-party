@@ -15,11 +15,17 @@ post '/callback' do
     when Line::Bot::Event::Message
       case event.type
       when Line::Bot::Event::MessageType::Text
-        message = {
-          type: 'text',
-          text: event.message['text']
-        }
-        client.reply_message(event['replyToken'], message)
+        response = HTTParty.post(
+          'http://text2gif.guggy.com/v2/guggify',
+          body: {
+            sentence: event.message['text']
+          }.to_json,
+          headers: {
+            'Content-Type': 'application/json',
+            'apiKey': ENV['GUGGY_API_KEY']
+          }
+        )
+        client.reply_message(event['replyToken'], response)
       else
         message = {
           type: 'text',

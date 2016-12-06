@@ -2,7 +2,10 @@ GEM
   remote: https://rubygems.org/
   specs:
     diff-lcs (1.2.5)
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
     line-bot-api (1.0.0)
+    multi_xml (0.5.5)
     rack (1.6.5)
     rack-protection (1.5.3)
       rack
@@ -29,6 +32,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  httparty
   line-bot-api
   rspec
   sinatra (~> 1.4.4)
