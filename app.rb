@@ -28,10 +28,9 @@ post '/callback' do
         )
 
         puts '======================='
-        p response
-        p response['animated']
+        p response.body
 
-        gifs = response['animated'].map do |gif|
+        gifs = response.body['animated'].map do |gif|
           gif['mp4']['original']['secureUrl']
         end
         client.reply_message(event['replyToken'], gifs[0])
