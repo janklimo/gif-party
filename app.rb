@@ -17,8 +17,9 @@ post '/callback' do
     when Line::Bot::Event::Message
       case event.type
       when Line::Bot::Event::MessageType::Text
-        video_urls = Parser.new(event.message['text']).video_urls
-        preview_urls = Parser.new(event.message['text']).preview_urls
+        response = Parser.new(event.message['text'])
+        video_urls = response.video_urls
+        preview_urls = response.preview_urls
 
         message = {
           type: 'video',
